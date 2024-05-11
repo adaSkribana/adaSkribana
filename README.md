@@ -32,7 +32,7 @@
         <tr>
             <td>Resolución de problemas</td>
             <td>Python</td>
-            <td></td>
+            <td>VS Code</td>
         </tr>
         <tr>
             <td>Pensamiento crítico</td>
