@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Developer+FullStack+Trainer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Developer+FullStack+Trainee)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0202&center=true&vCenter=true&random=false&width=435&lines=Marjorie+Ram%C3%ADrez)](https://git.io/typing-svg)
 <table style="margin: 0 auto; font-style: italic; color: #336699;">
     <thead>
